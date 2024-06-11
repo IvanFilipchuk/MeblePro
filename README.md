@@ -23,6 +23,6 @@ MeblePRO is an ERP application designed and developed to cater to the needs of s
 4. Run the project on an iOS simulator or physical device.
 
 ## Aplication Views
-![Screenshot 1](screenshots/Picture1.png), ![Screenshot 2](screenshots/Picture2.png), ![Screenshot 3](screenshots/Picture3.png), ![Screenshot 4](screenshots/Picture4.png), ![Screenshot 5](screenshots/Picture5.png)
+![Screenshot 1](screenshots/Picture1.png) ![Screenshot 2](screenshots/Picture2.png) ![Screenshot 3](screenshots/Picture3.png) ![Screenshot 4](screenshots/Picture4.png) ![Screenshot 5](screenshots/Picture5.png)
 
-![Screenshot 6](screenshots/Picture6.png), ![Screenshot 7](screenshots/Picture7.png), ![Screenshot 8](screenshots/Picture8.png), ![Screenshot 9](screenshots/Picture9.png), ![Screenshot 10](screenshots/Picture10.png)
+![Screenshot 6](screenshots/Picture6.png) ![Screenshot 7](screenshots/Picture7.png) ![Screenshot 8](screenshots/Picture8.png) ![Screenshot 9](screenshots/Picture9.png) ![Screenshot 10](screenshots/Picture10.png)
