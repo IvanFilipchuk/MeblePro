@@ -12,9 +12,8 @@ MeblePRO is an ERP application designed and developed to cater to the needs of s
 
 ## Technologies Used
 
-- **iOS App**: Developed using Swift and SwiftUI.
-- **Backend**: Utilizes Firebase for real-time database management and authentication.
-- **Cross-Platform Development**: Swift for iOS and Firebase for cross-platform data synchronization.
+- Developed using Swift and SwiftUI.
+- Utilizes Firebase for real-time database management and authentication.
 
 ## Installation
 
@@ -23,9 +22,7 @@ MeblePRO is an ERP application designed and developed to cater to the needs of s
 3. Set up Firebase project and add Firebase configuration files to the project.
 4. Run the project on an iOS simulator or physical device.
 
-## Screenshots
+## Aplication Views
+![Screenshot 1](screenshots/Picture1.png), ![Screenshot 2](screenshots/Picture2.png), ![Screenshot 3](screenshots/Picture3.png), ![Screenshot 4](screenshots/Picture4.png), ![Screenshot 5](screenshots/Picture5.png)
 
-![image](https://github.com/IvanFilipchuk/MeblePro/assets/84700823/30664312-a0a2-445e-8421-b1f40c21edd2)
-
-
-
+![Screenshot 6](screenshots/Picture6.png), ![Screenshot 7](screenshots/Picture7.png), ![Screenshot 8](screenshots/Picture8.png), ![Screenshot 9](screenshots/Picture9.png), ![Screenshot 10](screenshots/Picture10.png)
