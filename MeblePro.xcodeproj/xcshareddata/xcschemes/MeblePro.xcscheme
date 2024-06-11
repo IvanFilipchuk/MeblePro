@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1410"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F4975B7C2AEAC726008FF096"
+               BuildableName = "MeblePro.app"
+               BlueprintName = "MeblePro"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F4975B8C2AEAC729008FF096"
+               BuildableName = "MebleProTests.xctest"
+               BlueprintName = "MebleProTests"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F4975B962AEAC729008FF096"
+               BuildableName = "MebleProUITests.xctest"
+               BlueprintName = "MebleProUITests"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F426D68F2B20A906007B2C0D"
+               BuildableName = "checkEmailTest.xctest"
+               BlueprintName = "checkEmailTest"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F40606552B20F17500A4DED8"
+               BuildableName = "AddNewElementUTest.xctest"
+               BlueprintName = "AddNewElementUTest"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "_TtCC18AddNewElementUTest26AddKomponentToTaskListTest20UpdateUsersEmailTest">
+               </Test>
+            </SkippedTests>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F4151C1A2B20B8FD00C15874"
+               BuildableName = "AddElementIntegrationTest.xctest"
+               BlueprintName = "AddElementIntegrationTest"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F492318F2B2225EB00056DA9"
+               BuildableName = "DeleteDekorITest.xctest"
+               BlueprintName = "DeleteDekorITest"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F49231A22B222C1500056DA9"
+               BuildableName = "EmailAndPasswordValidationTests.xctest"
+               BlueprintName = "EmailAndPasswordValidationTests"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F49231B52B222E1B00056DA9"
+               BuildableName = "AlertPresentationTests.xctest"
+               BlueprintName = "AlertPresentationTests"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F49231C82B2232E800056DA9"
+               BuildableName = "UpdateUsersEmailDBUTest.xctest"
+               BlueprintName = "UpdateUsersEmailDBUTest"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F40C14102B4A19B200E0B4A4"
+               BuildableName = "AuthenticationTests.xctest"
+               BlueprintName = "AuthenticationTests"
+               ReferencedContainer = "container:MeblePro.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F4975B7C2AEAC726008FF096"
+            BuildableName = "MeblePro.app"
+            BlueprintName = "MeblePro"
+            ReferencedContainer = "container:MeblePro.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F4975B7C2AEAC726008FF096"
+            BuildableName = "MeblePro.app"
+            BlueprintName = "MeblePro"
+            ReferencedContainer = "container:MeblePro.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
