@@ -23,11 +23,9 @@ MeblePRO is an ERP application designed and developed to cater to the needs of s
 3. Set up Firebase project and add Firebase configuration files to the project.
 4. Run the project on an iOS simulator or physical device.
 
-## Usage
+## Screenshots
 
-- Upon opening the app, users can log in or sign up.
-- Once logged in, users can access the warehouse management features, search for components, and manage their profile.
+![image](https://github.com/IvanFilipchuk/MeblePro/assets/84700823/30664312-a0a2-445e-8421-b1f40c21edd2)
 
-![image](https://github.com/IvanFilipchuk/MeblePro/assets/84700823/0587e1ea-03c0-403a-a393-88bed79190d7)
 
 
